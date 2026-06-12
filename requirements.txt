@@ -1,0 +1,4 @@
+aiogram==3.28.2
+motor==3.7.1
+aiohttp==3.13.5
+pymongo==4.17.0
